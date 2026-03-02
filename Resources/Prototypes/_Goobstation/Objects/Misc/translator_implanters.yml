@@ -47,11 +47,3 @@
   components:
   - type: Implanter
     implant: YowKriolTranslatorImplant
-
-- type: entity
-  id: SignTranslatorImplanter
-  parent: BaseTranslatorImplanter
-  suffix: Sign
-  components:
-  - type: Implanter
-    implant: SignTranslatorImplant

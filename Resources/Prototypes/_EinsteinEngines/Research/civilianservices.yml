@@ -65,7 +65,6 @@
   - XenoTranslator
   - GruntishTranslatorImplanter
   - YowKriolTranslatorImplanter # goob edit - yowie language
-  - SignTranslatorImplanter # goob edit
   position: -4, 5
   technologyPrerequisites:
   - BasicTranslation
